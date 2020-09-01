@@ -6,21 +6,21 @@
         "cabecalho"
         "conteudo"
         "rodape";
-        grid-template-columns: auto;
-        grid-template-rows: 50px 93vh auto;
+    grid-template-columns: auto;
+    grid-template-rows: 50px 93vh auto;
 }
 
 .cabecalho {
-    background: #08cc99;
+    /* background: #08cc99; */
     grid-area: cabecalho;
 }
  
 .conteudo {
-    background: #ff8080;
+    /* background: #ff8080; */
     grid-area: conteudo;
 }
 
 .rodape {
-    background: #0099ff;
+    /* background: #0099ff; */
     grid-area: rodape;
 }
