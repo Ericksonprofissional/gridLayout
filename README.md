@@ -33,3 +33,12 @@ Centralizar conteúdo.
 Adicionar bordas.
 Aplicar estilo no hover do mouse.
 Adicionar símbolo de copyright.
+
+Aula5
+Nessa aula, aprendemos:
+
+Utilizar media queries para deixar site responsivo.
+Aplicar diferentes regras para diferentes telas.
+
+
+PRATICAR https://cssgridgarden.com/
